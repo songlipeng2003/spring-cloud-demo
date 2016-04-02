@@ -1,1 +1,2 @@
 include 'config-server'
+include 'eureka-server'
